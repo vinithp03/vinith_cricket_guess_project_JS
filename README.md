@@ -24,7 +24,7 @@ The game keeps track of the score using the browser's local storage. This means 
 
 ## Credits
 
-This game was created by [Your Name].
+This game was created by Vinith.
 
 ## License
 
